@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kuzai-com.pkgg.k-2.1.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/kuzai-com.pkgg.k-2.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
